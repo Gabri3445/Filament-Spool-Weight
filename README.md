@@ -1,3 +1,3 @@
 | Brand | Spool Material | Weight |
 | -------- | --------- | -------- |
-| Amazon | Black Plastic | 269gr |
+| Amazon Basics | Black Plastic | 269gr |
